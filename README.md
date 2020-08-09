@@ -12,7 +12,7 @@
     <li style="text-align: justify">Radar-based information was collected by an Unihnabitated Aerial Vehicle Synthetic Aperture Radar (UAVSAR) system.</li>
 </ul>
 <p style="text-align: justify">As the amount and complexity of data gathered from such different sources over several time spans is inherently huge, <b>machine learning</b> plays a central role when it comes to the final classification purpose. The literature is vast and describes inumerous approaches and techniques to manipulate such information. The researchers cited in foreword have themselves assessed several solutions, stacked random forests in particular, with overall accuracies ranging from 90 to 96% for different stacking strategies. It has been noted though that some of the references are outdated, which suggests that the use of state-of-the-art classification engines - random forest and neural network classifiers - may lead to further metric improvements.</p>
-
+<img src="https://i.imgur.com/4oTGmTA.png">
 
 ## Objective
 <p style="text-align: justify">Two major objectives are proposed for this study:</p>
